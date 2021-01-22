@@ -25,7 +25,7 @@ docsify 可以快速帮你生成文档网站。不同于 GitBook、Hexo 的地�
 
 ## 捐赠
 
-如果你觉得 docsify 对你有帮助，或者想对我微小的工作一点资瓷，欢迎给我[捐赠](https://github.com/QingWei-Li/donate)。
+如果你觉得 docsify 对你有帮助，或者想对我微小的工作一点支持，欢迎给我[捐赠](https://github.com/QingWei-Li/donate)。
 
 ## 社区
 
